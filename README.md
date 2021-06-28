@@ -8,5 +8,5 @@
  follow the direction abaove but ensure that the android emulator is running, or android phone is connected before running the app. Flutter will either automatically choose the
  android device to boot up on or suggest prompts similar to when trying to web version. Follow the prompts to run the app.
 ## Admin account:
- email: a@admin.com
+ email: a@admin.com <br/>
  password: adminadmin
